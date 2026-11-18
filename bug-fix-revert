@@ -1,0 +1,13 @@
+curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/13684 | grep -E '"number"|"html_url"|"state"|"full_name"'
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/13684",
+  "number": 13684,
+  "state": "closed",
+    "html_url": "https://github.com/fatin-nadia",
+      "full_name": "fatin-nadia/mcino-Introduction-to-Git-and-GitHub",
+        "html_url": "https://github.com/fatin-nadia",
+      "html_url": "https://github.com/fatin-nadia/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/fatin-nadia",
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+        "html_url": "https://github.com/ibm-developer-skills-network",
+      "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+      "html_url": "https://github.com/ibm-developer-skills-network",
